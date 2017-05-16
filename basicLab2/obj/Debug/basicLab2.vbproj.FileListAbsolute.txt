@@ -9,3 +9,14 @@ C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLab1\basicLab2\ob
 C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLab1\basicLab2\obj\Debug\basicLab2.exe
 C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLab1\basicLab2\obj\Debug\basicLab2.xml
 C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLab1\basicLab2\obj\Debug\basicLab2.pdb
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\bin\Debug\basicLab2.exe.config
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\bin\Debug\basicLab2.exe
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\bin\Debug\basicLab2.pdb
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\bin\Debug\basicLab2.xml
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\obj\Debug\basicLab2.vbprojResolveAssemblyReference.cache
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\obj\Debug\basicLab2.Form1.resources
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\obj\Debug\basicLab2.Resources.resources
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\obj\Debug\basicLab2.vbproj.GenerateResource.Cache
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\obj\Debug\basicLab2.exe
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\obj\Debug\basicLab2.xml
+C:\Users\IntelDoter\Documents\Visual Studio 2017\Projects\basicLabs\basicLab2\obj\Debug\basicLab2.pdb

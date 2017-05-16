@@ -35,11 +35,11 @@ Partial Class Form1
         Me.resultLabel = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
         Me.areaLabel = New System.Windows.Forms.Label()
         Me.sideLabel = New System.Windows.Forms.Label()
         Me.diffLabel = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'lengthLabel
@@ -152,24 +152,6 @@ Partial Class Form1
         Me.Label3.TabIndex = 15
         Me.Label3.Text = "Площадь"
         '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(323, 70)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(49, 13)
-        Me.Label4.TabIndex = 16
-        Me.Label4.Text = "Сторона"
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(323, 97)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(50, 13)
-        Me.Label5.TabIndex = 17
-        Me.Label5.Text = "Разница"
-        '
         'areaLabel
         '
         Me.areaLabel.AutoSize = True
@@ -193,6 +175,24 @@ Partial Class Form1
         Me.diffLabel.Name = "diffLabel"
         Me.diffLabel.Size = New System.Drawing.Size(0, 13)
         Me.diffLabel.TabIndex = 20
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(323, 70)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(49, 13)
+        Me.Label4.TabIndex = 16
+        Me.Label4.Text = "Сторона"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(323, 97)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(50, 13)
+        Me.Label5.TabIndex = 17
+        Me.Label5.Text = "Разница"
         '
         'Form1
         '
@@ -237,9 +237,9 @@ Partial Class Form1
     Friend WithEvents resultLabel As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
-    Friend WithEvents Label4 As Label
-    Friend WithEvents Label5 As Label
     Friend WithEvents areaLabel As Label
     Friend WithEvents sideLabel As Label
     Friend WithEvents diffLabel As Label
+    Friend WithEvents Label4 As Label
+    Friend WithEvents Label5 As Label
 End Class

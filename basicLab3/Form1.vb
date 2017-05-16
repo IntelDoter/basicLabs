@@ -25,18 +25,17 @@
         Dim cosinus As Double
         Dim Numbers = New Integer(2) {}
         Dim square As Double
-
-        Dim Random As Double
+        Dim Random As Integer
 
         len = 100
-        Random = Math.Round(len * Rnd() + 1)
-        Numbers(0) = Random
-        Numbers(1) = len - Random
-        Array.Sort(Numbers)
-        Random = Math.Round(Numbers(2) * Rnd() + 1)
+        Random = Math.Round(len * Rnd() + 1) 'получаем случайное значение числа в пределах от 0 до 100
+        Numbers(0) = Random 'записываем его в массив
+        Numbers(1) = len - Random 'записываем разницы между начальным отрезком и случайным
+        Array.Sort(Numbers) 'сортируем массив, таким образом последний элемент в массиве является наибольшим, так как массив сортируется по возрастанию
+        Random = Math.Round(Numbers(2) * Rnd() + 1) 'проделываем аналогичную операцию для этого наибольшего числа
         Numbers(0) = Random
         Numbers(2) = Numbers(2) - Random
-        Array.Sort(Numbers)
+        Array.Sort(Numbers) 'получаем отсортированный массив, в котором последний элемент и является наибольшим
 
         Label2.Text = Str(Numbers(0)) + " " + Str(Numbers(1)) + " " + Str(Numbers(2))
         g.Clear(Color.White)
